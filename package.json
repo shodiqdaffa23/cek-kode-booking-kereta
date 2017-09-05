@@ -5,8 +5,9 @@
     "collect.js": "^3.0.49",
     "express": "^4.15.4",
     "nightmare": "^2.10.0",
-    "node-horseman": "^3.3.0",
-    "tabletojson": "^0.6.0"
+    "node-horseman": "^3.0.1",
+    "tabletojson": "^0.6.0",
+		"phantomjs": "^2.1.7"
   },
   "bin": {
     "booking-kereta": "index.js"
